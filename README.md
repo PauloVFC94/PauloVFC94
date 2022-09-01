@@ -13,15 +13,15 @@
 <span><b> </b> <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <span> 
 <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
 <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
-<span><b>JavaScript ES6, HTML5, CSS3</b>
+<span><b>JavaScript ES6, HTML5, CSS3</b><p></p>
 
 <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
 <img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> &nbsp;
-<span><b>React, Redux</b>
+<span><b>React, Redux</b><p></p>
   
 <img align="center" alt="Jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> &nbsp;
 <img align="center" alt="Testing Library" height="30" width="30" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png">
-<span><b>Jest, RTL</b>
+<span><b>Jest, RTL</b><p></p>
 &nbsp;
 
   
