@@ -64,5 +64,6 @@
   <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="chai"/>
 </span>
 
-  
+<h3>Status do GitHub</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauloVFC94&theme=merko&hide_border=false"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloVFC94&layout=compact&theme=merko&locale=pt-br"/>
