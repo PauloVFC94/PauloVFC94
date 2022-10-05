@@ -3,11 +3,13 @@
  <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
  <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
  <li>Sou dedicado e adoro aprender coisas novas e encarar os mais diversos projetos</li>
- <li>Você pode entrar em contato pelo e-mail: <a href="mailto:paulovictorfcosta@gmail.com" target="_blank">paulovictorfcosta@gmail.com</a></li>
 </ul>
 
 <h3>Você pode me encontrar em: </h3>
 <a href="https://www.linkedin.com/in/paulo-victor-ferreira-da-costa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+<a href="mailto:paulovictorfcosta@gmail.com">
+ 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 
 <h3>Linguagens</h3>
 <span>
