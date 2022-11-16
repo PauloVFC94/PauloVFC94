@@ -1,8 +1,8 @@
 <h2> Olá, boas-vindas ao meu GitHub!</h2>
 <ul>
  <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
- <li>Aprendendo Back-end: Docker, MySQL e Node.js</li>
- <li>Sou dedicado e adoro aprender coisas novas e encarar os mais diversos projetos</li>
+ <li>Aprendendo Python</li>
+ <li>Sou dedicado e adoro aprender coisas novas. Busco trabalhar em um projeto que impacte a vida das pessoas de forma positiva.</li>
 </ul>
 
 <h3>Você pode me encontrar em: </h3>
@@ -48,6 +48,9 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="express"/>
 </span>
 
 <h3>Deploy</h3>
