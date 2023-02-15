@@ -1,7 +1,6 @@
 <h2> Olá, boas-vindas ao meu GitHub!</h2>
 <ul>
- <li>Estudante de Desenvolvimento Web Full Stack na Trybe</li>
- <li>Aprendendo Python</li>
+ <li>Desenvolvedor Web Full Stack</li>
  <li>Sou dedicado e adoro aprender coisas novas. Busco trabalhar em um projeto que impacte a vida das pessoas de forma positiva.</li>
 </ul>
 
@@ -17,6 +16,9 @@
 </span>
 <span>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </span>
 
 <h3>Front-end</h3>
